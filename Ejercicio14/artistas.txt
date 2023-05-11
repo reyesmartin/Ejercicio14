@@ -1,16 +1,9 @@
-Nombre: The Beatles
-Genero: Rock
-Reproducciones: 1000000.0
-Pais donde mas se escucha: Reino Unido
-Recaudacion monetaria: $20000.0
-Proyeccion anual: $240000.0
-------------
-Nombre: BTS
-Genero: K-Pop
-Reproducciones: 2000000.0
-Pais donde mas se escucha: Corea del Sur
-Recaudacion monetaria: $40000.0
-Proyeccion anual: $480000.0
+Nombre: Rosalía
+Genero: Flamenco Urbano
+Reproducciones: 1800000.0
+Pais donde mas se escucha: España
+Recaudacion monetaria: $36000.0
+Proyeccion anual: $432000.0
 ------------
 Nombre: Bad Bunny
 Genero: Reggaeton
@@ -19,52 +12,10 @@ Pais donde mas se escucha: Puerto Rico
 Recaudacion monetaria: $30000.0
 Proyeccion anual: $360000.0
 ------------
-Nombre: Ariana Grande
-Genero: Pop
-Reproducciones: 3000000.0
-Pais donde mas se escucha: Estados Unidos
-Recaudacion monetaria: $60000.0
-Proyeccion anual: $720000.0
-------------
-Nombre: Queen
-Genero: Rock
-Reproducciones: 2500000.0
-Pais donde mas se escucha: Reino Unido
-Recaudacion monetaria: $50000.0
-Proyeccion anual: $600000.0
-------------
-Nombre: Rosalía
-Genero: Flamenco urbano
-Reproducciones: 1800000.0
-Pais donde mas se escucha: España
-Recaudacion monetaria: $36000.0
-Proyeccion anual: $432000.0
-------------
-Nombre: Enrique Iglesias
-Genero: Pop latino
-Reproducciones: 2200000.0
-Pais donde mas se escucha: España
-Recaudacion monetaria: $44000.0
-Proyeccion anual: $528000.0
-------------
 Nombre: Pablo Alborán
 Genero: Pop
 Reproducciones: 1700000.0
 Pais donde mas se escucha: España
 Recaudacion monetaria: $34000.0
 Proyeccion anual: $408000.0
-------------
-Nombre: Vanessa Martin
-Genero: Pop
-Reproducciones: 1400000.0
-Pais donde mas se escucha: España
-Recaudacion monetaria: $28000.0
-Proyeccion anual: $336000.0
-------------
-Nombre: Antonio Orozco
-Genero: Pop
-Reproducciones: 1300000.0
-Pais donde mas se escucha: España
-Recaudacion monetaria: $26000.0
-Proyeccion anual: $312000.0
 ------------
